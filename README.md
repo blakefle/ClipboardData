@@ -7,7 +7,7 @@ To display the clipboard:
 C:\>ClipboardData.exe -d
 ```
 
-To clear the clipboard:
+To empty/clear the clipboard:
 ```
 C:\>ClipboardData.exe -e
 ```
